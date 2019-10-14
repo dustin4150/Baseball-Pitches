@@ -8,7 +8,7 @@ Built an MLB pitch predictor using Machine Learning to help coaches and players 
 # Demonstration of results
 
 confusion matrix visualization
-![](confusion_matrix.png)
+![](matrix.png)
 
 model performance
 ![](performance_table.png)
