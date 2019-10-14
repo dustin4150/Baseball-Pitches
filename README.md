@@ -7,10 +7,10 @@ Built an MLB pitch predictor using Machine Learning to help coaches and players 
 
 # Demonstration of results
 
-Here is the confusion matrix visualization that I did:
+confusion matrix visualization
 ![](confusion_matrix.png)
 
-Here is the how well the model performance at predicting base pitch for an unknown dataset.
+model performance
 ![](performance_table.png)
 
 # Future improvements
