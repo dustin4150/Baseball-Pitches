@@ -19,3 +19,4 @@ model performance
 + implement a deep learning algorithm to test more potential models
 + create a cross-validation script for assessing the accuracy of the model
  
+ 
